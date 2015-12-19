@@ -1,7 +1,7 @@
 name: volvox
 favicon: null
-layout_spectrum: 0.43353986949659884
-typography_spectrum: 0.19500309671275318
+layout_spectrum: 0.16887
+typography_spectrum: 0.73716
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.21090486668981612
+    - '#000000'
+    - '#ffffff'
+    - '#697eab'
+    - '#3f4d6f'
+    - '#96edfd'
+  brandStrength: 0.1875
   lightness: 0.6788392846938223
-  saturation: 0.374345647636801
+  saturation: 0.375
   rhythmicContrast: 0.5748455082066357
 purpose: []
